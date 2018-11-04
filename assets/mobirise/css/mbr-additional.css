@@ -3980,13 +3980,13 @@ body {
 .cid-r80rCDz05u {
   padding-top: 75px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #19306b;
 }
 .cid-r80rCDz05u .title {
   margin-bottom: 2rem;
 }
 .cid-r80rCDz05u .mbr-section-subtitle {
-  color: #767676;
+  color: #efefef;
 }
 .cid-r80rCDz05u a:not([href]):not([tabindex]) {
   color: #fff;
@@ -4003,6 +4003,12 @@ body {
 .cid-r80rCDz05u .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-r80rCDz05u H2 {
+  color: #ffffff;
+}
+.cid-r80rCDz05u LABEL {
+  color: #ffffff;
 }
 .cid-r8sAKvNv2J {
   padding-top: 30px;
