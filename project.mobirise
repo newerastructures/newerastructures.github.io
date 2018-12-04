@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "New Era Structures",
-    "currentPage": "page3.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -45,7 +45,7 @@
         "url": "https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i"
       }
     ],
-    "uniqCompNum": 110,
+    "uniqCompNum": 111,
     "versionPublish": "4.8.4",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -6665,6 +6665,24 @@
               }
             ]
           }
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>New Era Structures strives to make progress on every structure we build, ensuring that the details are correct, the paperwork is finished, and the process is smooth and simple. With that in mind, the garages we offer are certified and detailed in our order process when sent to the manufacturer. Our metal garage buildings are available with windows, multiple roll-up doors, walk-in doors, and specified measurements. New Era Structures focuses on bringing you the best service all-around, so we’d like to hear your ideas and comments on any garage that can fit all your needs. You can contact us at (336) 429-5597 or drop us a visit on FaceBook!\n</b><div><b>\n</b></div><div><b>The three major roof styles we have to offer are: regular, boxed-eave, and vertical. \n</b></div><div><b>The regular roof style garage has curved ends with sheeting running lengthwise. The A-shaped is distinctly known from this style and can be offered with a variety of colors and sizes.\n</b></div><div><b>The boxed-eave roof garage has sheeting that also runs lengthwise and is flat all the way down. It’s V-shape is most widely known on its edges and can also be offered in different colors and sizes.\n</b></div><div><b>The vertical roof garage is shaped exactly as the boxed-eave along its edges, but it’s sheeting runs vertically.\n</b></div><div><b>\n</b></div><div><b>At New Era Structures, you can find a variety of metal carports to order including metal garages, commercial structures, and custom buildings (as you describe while filling out custom quote). Our steel carports are less expensive than metal garages since they have partial or enclosed walls or don’t have walls at all. New Era Structures is helpful in working with our manufacturers to take care of your needs while having your budget in mind when suggesting which steel building is right for you.</b></div></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rbj97uH85I",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-32"
         },
         {
           "_styles": {
