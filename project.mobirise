@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "New Era Structures",
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4936,6 +4936,9 @@
                 "top": "calc(50% ~'-' 300px) !important",
                 "left": "calc(50% ~'-' 500px) !important"
               }
+            },
+            ".card-description P": {
+              "text-align": "center"
             }
           },
           "_customHTML": "<section class=\"mbr-gallery\" group=\"Shops\" plugins=\"mobirise-shop,Gallery\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" inline>\n        <input type=\"color\" title=\"On Sale Bg\" name=\"saleBg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"shop\" title=\"Shop\" name=\"shop\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-shop=\"shop\" class=\"mbr-shop\" sorting show-sidebar card-buttons></div>\n    </div>\n\n</section>",
@@ -5025,7 +5028,7 @@
                 "customStyleSale": "display-7",
                 "customStyleTags": "display-4",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "alt": "",
                 "title": ""
               },
@@ -5118,6 +5121,29 @@
                 "customStyleTags": "display-4",
                 "caption": "Type caption here",
                 "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Creative",
+                "bestSeller": false,
+                "onSale": false,
+                "oldPrice": false,
+                "itemTitle": "New Era Color options",
+                "itemDescription": "<p>OUR COLOR OPTIONS MIX AND MATCH FOR FREE!!</p><p><b>HORZONTAL WAINSCOTING&nbsp;</b></p><p><b>FREE on buildings with horizontal sides &amp; ends</b></p><p><b>VERTICAL WAINSCOTING</b></p><p><b>$6.25 Per Linear Ft.</b></p><p><b>Ex. 20x31 (20+20+30+30)x 6.25</b></p>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "$0",
+                "oldPriceValue": "<span style=\"font-weight: normal;\">$</span>",
+                "sale": "-50%",
+                "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WQLE6Y5WT9YAL\" data-app-placeholder=\"Type Text\" class=\"btn btn-primary display-7 note-editable\">Color Options<br></a>",
+                "image": "@PROJECT_PATH@/assets/images/colors-694x715.png",
+                "thumb": "@PROJECT_PATH@/assets/images/colors-694x715-694x715.png",
+                "customStyle5": "display-5",
+                "customStyle7": "display-7",
+                "customStyleSale": "display-7",
+                "customStyleTags": "display-4",
+                "caption": "Type caption here",
+                "active": true,
                 "alt": "",
                 "title": ""
               }
