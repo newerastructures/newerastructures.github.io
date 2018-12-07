@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "New Era Structures",
-    "currentPage": "page8.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -9741,6 +9741,29 @@
                 "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YG2RF3A7CHEAJ\" data-app-placeholder=\"Type Text\" class=\"btn btn-primary display-7 note-editable note-air-editor\">Pay down payment<br>$1,595.88<br></a>",
                 "image": "@PROJECT_PATH@/assets/images/21106485_1970116356537238_1954917135209157932_n-960x540.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/21106485-1970116356537238-1954917135209157932-n-960x540-800x450.jpg",
+                "customStyle5": "display-5",
+                "customStyle7": "display-7",
+                "customStyleSale": "display-7",
+                "customStyleTags": "display-4",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Creative",
+                "bestSeller": false,
+                "onSale": false,
+                "oldPrice": false,
+                "itemTitle": "New Era Color Options",
+                "itemDescription": "OUR COLOR OPTIONS MIX AND MATCH FOR FREE!!\r<div>HORZONTAL WAINSCOTING \r</div><div>FREE on buildings with horizontal sides &amp; ends\r</div><div><b>VERTICAL WAINSCOTING\r</b></div><div>$6.25 Per Linear Ft.\r</div><div>Ex. 20x31 (20+20+30+30)x 6.25</div>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "$0",
+                "oldPriceValue": "$14",
+                "sale": "-50%",
+                "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YG2RF3A7CHEAJ\" data-app-placeholder=\"Type Text\" class=\"btn btn-primary display-7 note-editable note-air-editor\">Colors<br></a>",
+                "image": "@PROJECT_PATH@/assets/images/colors-694x715.png",
+                "thumb": "@PROJECT_PATH@/assets/images/colors-694x715-694x715.png",
                 "customStyle5": "display-5",
                 "customStyle7": "display-7",
                 "customStyleSale": "display-7",
