@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "New Era Structures",
-    "currentPage": "index.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -58,7 +58,7 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "<script type=\"text/javascript\">\n  var subscribersSiteId = 'dd266b10-6a00-4c8c-b917-95b3ab4999d1';\n</script>\n<script type=\"text/javascript\" src=\"https://cdn.subscribers.com/assets/subscribers.js\"></script>",
         "footer_custom": "",
         "html_before": ""
       },
@@ -3060,7 +3060,8 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "How we work ",
-        "order": 1
+        "order": 1,
+        "header_custom": ""
       },
       "components": [
         {
@@ -6658,12 +6659,12 @@
                 "onSale": false,
                 "oldPrice": false,
                 "itemTitle": "New Era Garages",
-                "itemDescription": "28wide X 36long X 9ft \n<div>Vertical Roof Horizontal Sides &amp; Ends \n</div><div>2) 10x8 Roll up Doors \n</div><div>1) 36\" x 80\" Walk-in Door \n</div><div>1) 24\" x 36\" Window\n</div><div>Certified Structure \n</div><div>Starting Price $10,295</div><div>Down payment of $1,235.40</div><div>is required to process the order\n</div><div>the remain balance is paid ones building is install!!</div>",
+                "itemDescription": "28wide X 36long X 9ft \n<div>Vertical Roof Horizontal Sides &amp; Ends \n</div><div>2) 10x8 Roll up Doors \n</div><div>1) 36\" x 80\" Walk-in Door \n</div><div>1) 24\" x 36\" Window\n</div><div>Certified Structure \n</div><div>Starting Price $11,295</div><div>Down payment of $1,355.40</div><div>is required to process the order\n</div><div>the remain balance is paid ones building is install!!</div>",
                 "itemPriceTitle": "From: ",
                 "itemPrice": "$10,295",
                 "oldPriceValue": "$82",
                 "sale": "-50%",
-                "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8J8Q5MBKJVVCS\" data-app-placeholder=\"Type Text\" class=\"btn btn-primary display-7 note-editable note-air-editor\">Pay down payment<br>$1,235.40<br></a>",
+                "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8J8Q5MBKJVVCS\" data-app-placeholder=\"Type Text\" class=\"btn btn-primary display-7 note-editable\">Pay down payment<br>$1,235.40<br></a>",
                 "image": "@PROJECT_PATH@/assets/images/13-508x348.png",
                 "thumb": "@PROJECT_PATH@/assets/images/13-508x348-508x348.png",
                 "customStyle5": "display-5",
