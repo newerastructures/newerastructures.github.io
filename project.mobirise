@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "New Era Structures",
-    "currentPage": "page7.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -352,8 +352,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"page5.html#form1-21\" data-toolbar=\"-mbrBtnMove\">CUSTOM QUOTE</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"page4.html#features14-1f\" data-toolbar=\"-mbrBtnMove\">HOW WE WORK</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/metal-buildings3-960x720.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/pic23-992x479.jpg",
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -372,7 +372,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/capture0006-919x649.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
