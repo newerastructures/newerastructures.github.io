@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "New Era Structures",
-    "currentPage": "page3.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -6598,8 +6598,8 @@
                 "oldPriceValue": "$38",
                 "sale": "-50%",
                 "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZPTMLFC98S436\" data-app-placeholder=\"Type Text\" class=\"btn btn-primary display-7 note-editable note-air-editor\">Pay down payment<br>$1,391.40<br></a>",
-                "image": "@PROJECT_PATH@/assets/images/capture-940x565.png",
-                "thumb": "@PROJECT_PATH@/assets/images/capture-940x565-800x481.png",
+                "image": "@PROJECT_PATH@/assets/images/pic25-940x565.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pic25-940x565-800x481.jpg",
                 "customStyle5": "display-5",
                 "customStyle7": "display-7",
                 "customStyleSale": "display-7",
@@ -6667,14 +6667,14 @@
                 "oldPriceValue": "$82",
                 "sale": "-50%",
                 "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8J8Q5MBKJVVCS\" data-app-placeholder=\"Type Text\" class=\"btn btn-primary display-7 note-editable note-air-editor\">Pay down payment<br>$1,355.40<br></a>",
-                "image": "@PROJECT_PATH@/assets/images/13-508x348.png",
-                "thumb": "@PROJECT_PATH@/assets/images/13-508x348-508x348.png",
+                "image": "@PROJECT_PATH@/assets/images/pic26-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pic26-960x720-800x600.jpg",
                 "customStyle5": "display-5",
                 "customStyle7": "display-7",
                 "customStyleSale": "display-7",
                 "customStyleTags": "display-4",
                 "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "alt": "",
                 "title": ""
               },
@@ -6789,7 +6789,7 @@
                 "customStyleSale": "display-7",
                 "customStyleTags": "display-4",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "alt": "",
                 "title": ""
               }
