@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "New Era Structures",
-    "currentPage": "page4.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -5138,15 +5138,15 @@
                 "itemPrice": "$6,995",
                 "oldPriceValue": "$198",
                 "sale": "-50%",
-                "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GPUFUJ9BFWHSC\" data-app-placeholder=\"Type Text\" class=\"btn btn-primary display-7 note-editable note-air-editor\">Pay down payment<br>$839.40<br></a>",
-                "image": "@PROJECT_PATH@/assets/images/44104132_2219830598232478_571191871108284416_n-750x444.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/44104132-2219830598232478-571191871108284416-n-750x444-750x444.jpg",
+                "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GPUFUJ9BFWHSC\" data-app-placeholder=\"Type Text\" class=\"btn btn-primary display-7 note-editable\">Pay down payment<br>$839.40<br></a>",
+                "image": "@PROJECT_PATH@/assets/images/pic20-750x444.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pic20-750x444-750x444.jpg",
                 "customStyle5": "display-5",
                 "customStyle7": "display-7",
                 "customStyleSale": "display-7",
                 "customStyleTags": "display-4",
                 "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "alt": "",
                 "title": ""
               },
@@ -5169,7 +5169,7 @@
                 "customStyleSale": "display-7",
                 "customStyleTags": "display-4",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "alt": "",
                 "title": ""
               }
