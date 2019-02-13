@@ -4835,29 +4835,6 @@
             "price_range_reset": "<a class=\"btn btn-sm btn-secondary\" data-app-btn=\"true\" href=\"\">Show all</a>",
             "shop": [
               {
-                "tags": "Awesome",
-                "bestSeller": false,
-                "onSale": false,
-                "oldPrice": false,
-                "itemTitle": "New Era Carports",
-                "itemDescription": "Vertical Roof Carport \n<div>18 wide X 21 long X 9ft \n</div><div>4) 8x8 Openings (21 long side) \n</div><div>4) 45 Trim-Kit \n</div><div>Certified Structure \n</div><div>Starting Price $4,195\n</div><div>Down payment of $503.40 is required to process the order</div><div>The remain balance is paid once the building is installed!</div>",
-                "itemPriceTitle": "From: ",
-                "itemPrice": "$4,195",
-                "oldPriceValue": "$32",
-                "sale": "-50%",
-                "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FQU45D8CW7U7E\" data-app-placeholder=\"Type Text\" class=\"btn btn-primary display-7 note-editable note-air-editor\">Pay down payment<br>$503.40<br></a>",
-                "image": "@PROJECT_PATH@/assets/images/17-496x274.png",
-                "thumb": "@PROJECT_PATH@/assets/images/17-496x274-496x274.png",
-                "customStyle5": "display-5",
-                "customStyle7": "display-7",
-                "customStyleSale": "display-7",
-                "customStyleTags": "display-4",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": "",
-                "title": ""
-              },
-              {
                 "tags": "Creative",
                 "bestSeller": false,
                 "onSale": false,
@@ -4876,7 +4853,7 @@
                 "customStyleSale": "display-7",
                 "customStyleTags": "display-4",
                 "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "alt": "",
                 "title": ""
               },
@@ -4899,7 +4876,7 @@
                 "customStyleSale": "display-7",
                 "customStyleTags": "display-4",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "alt": "",
                 "title": ""
               },
