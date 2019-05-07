@@ -11249,6 +11249,9 @@
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#ffffff"
+            },
+            "H1": {
+              "text-align": "right"
             }
           },
           "_name": "header2",
