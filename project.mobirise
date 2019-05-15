@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "New Era Structures",
-    "currentPage": "page13.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -384,7 +384,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "For the limited time offer promotion, click on Message so you can chat will one of our team members that will happy to assist you. The offer will be only for the following states GA, NC. SC, VA, TN.&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"page5.html#form1-21\" data-toolbar=\"-mbrBtnMove\">CUSTOM QUOTE</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"page4.html#features14-1f\" data-toolbar=\"-mbrBtnMove\">HOW WE WORK</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"mailto:calberto@newerastructures.com\" data-toolbar=\"-mbrBtnMove\">CUSTOM QUOTE</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"page4.html#features14-1f\" data-toolbar=\"-mbrBtnMove\">HOW WE WORK</a>"
               }
             ]
           }
